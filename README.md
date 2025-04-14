@@ -1,4 +1,4 @@
-# Student Data Management System (C# - WinForms)
+C# - WinForms
 
 This is a simple Windows Forms application using **C# and Hashtable** that allows you to:
 - Add student data (Name, Roll, DOB, Marks)
@@ -6,20 +6,19 @@ This is a simple Windows Forms application using **C# and Hashtable** that allow
 - Calculate total and percentage
 - Search student by roll number
 
-## 🛠 Technologies Used
+
 - C#
 - Windows Forms (WinForms)
 - Hashtable (System.Collections)
+- 
+![App Screenshot](Screenshot.png) *(Add your app screenshot here)*
 
-## 📷 Screenshots
-![App Screenshot](Screenshot(35).png) *(Add your app screenshot here)*
-
-## 📁 Features
+#
 - Prevents duplicate roll numbers
 - Auto calculation of marks and percentage
 - Clear and Search functionalities
 
-## 📂 How to Run
+#
 1. Clone this repo
 2. Open solution in Visual Studio
 3. Run the project (F5)
@@ -29,4 +28,4 @@ This is a simple Windows Forms application using **C# and Hashtable** that allow
 ## 📌 Author
 **Sukhdev Singh**  
 Connect with me on [YouTube](https://youtube.com/@codewithmaharishicollege)
-connect with me on [Linkedin]()
+connect with me on [Linkedin](www.linkedin.com/in/sukhdevsinghshekhawat)
