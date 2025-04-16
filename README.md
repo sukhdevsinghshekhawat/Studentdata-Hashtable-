@@ -11,7 +11,7 @@ This is a simple Windows Forms application using **C# and Hashtable** that allow
 - Windows Forms (WinForms)
 - Hashtable (System.Collections)
 - 
-![App Screenshot](Screenshot.png) *(Add your app screenshot here)*
+![App Screenshot](Screenshot.png)
 
 #
 - Prevents duplicate roll numbers
